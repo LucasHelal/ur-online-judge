@@ -11,7 +11,7 @@ Lucas Georges Helal – [@lucasghelal](https://www.linkedin.com/in/helallucas/) 
 
 ## How to Contribute:
 
-1. Make a _fork_ of the project (<https://github.com>)
+1. Make a _fork_ of the project (<https://github.com/LucasHelal/uri-online-judge>)
 2. Clone the repository in your computer
 3. Create a new _branch_ with your modification (`git checkout -b feature/fooBar`)
 4. Make the _commit_ (`git commit -am 'Add some fooBar'`)
